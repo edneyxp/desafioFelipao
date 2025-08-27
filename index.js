@@ -65,3 +65,4 @@ do {
 } while (continua)
 
     console.log("\nObrigado por usar o classificador. Ate breve!");
+    console.log("\nMatrix Maraba agradece a sua preferencia.");
